@@ -1,5 +1,5 @@
 # Fast-Planner
-
+配置： https://blog.csdn.net/AnChenliang_1002/article/details/108905096
 **Fast-Planner** is developed aiming to enable quadrotor fast flight in complex unknown environments. It contains a rich set of carefully designed planning algorithms. More features and interesting methods will come in the future :wink:.
 
 __Authors__: [Boyu Zhou](http://boyuzhou.net) and [Shaojie Shen](http://uav.ust.hk/group/) from the [HUKST Aerial Robotics Group](http://uav.ust.hk/), [Fei Gao](https://ustfei.com/) from [ZJU FAST Lab](http://www.kivact.com/).
